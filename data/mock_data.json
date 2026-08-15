@@ -1,0 +1,12 @@
+{
+  "visa_requirements": {
+    "schengen": ["Valid Passport", "Travel Insurance", "Flight Itinerary", "Bank Statements", "Hotel Booking"],
+    "usa": ["Passport", "DS-160 Form Confirmation", "Interview Appointment Letter", "Bank Statements"],
+    "japan": ["Passport", "Visa Application Form", "Photo", "Flight Itinerary", "Bank Statements"]
+  },
+  "applications": {
+    "APP123": {"status": "In Progress", "expected_date": "2026-08-20"},
+    "APP999": {"status": "Approved", "expected_date": "Ready for pickup at embassy"},
+    "APP404": {"status": "Rejected", "expected_date": "N/A"}
+  }
+}

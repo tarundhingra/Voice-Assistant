@@ -1,0 +1,11 @@
+SpeechRecognition
+faster-whisper
+google-genai
+gTTS
+pygame
+pyaudio
+numpy
+dotenv
+silero-vad
+torch
+torchaudio
