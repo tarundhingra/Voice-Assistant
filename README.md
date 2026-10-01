@@ -8,7 +8,7 @@ I started with a basic turn-based script, but quickly upgraded it to a multi-thr
 
 Speech-to-Text (STT): faster-whisper running locally on CPU.
 
-Brain & Reasoning: Gemini 1.5 Flash via the new google-genai SDK.
+Brain & Reasoning: Gemini 3.5 flash-lite via the new google-genai SDK.
 
 Tool Calling: Custom manual dispatch loop hooked up to Python functions that read from a local mock_data.json file (simulating checking visa statuses and requirements).
 
