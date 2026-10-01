@@ -1,5 +1,5 @@
 TravelBuddy ✈️ | End-to-End Voice AI Travel Assistant
-Hi! I built this project because I'm applying for a Voice AI internship at a travel-tech company, and I wanted to get my hands dirty and learn how conversational voice agents actually work under the hood.
+Hi! I built this project because I wanted to get my hands dirty and learn how conversational voice agents actually work under the hood.
 
 TravelBuddy is a locally-run Voice AI assistant designed to handle travel and visa queries. It listens to your voice, thinks through the logic using an LLM, dynamically fetches data from mock database records, and speaks the answer back to you. It even supports "barge-in"—if you interrupt it while it's talking, it immediately stops and listens.
 
